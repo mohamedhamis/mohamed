@@ -81,9 +81,6 @@
                     background-size: 100vw 100vh;
                     overflow: hidden;
                 }
-                body {
-                    overflow: hidden;
-                }
             }
             
             .preloader {

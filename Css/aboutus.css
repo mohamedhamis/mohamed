@@ -141,5 +141,11 @@
     background-color: orange;
 }
 
+@media screen and (max-width:990px) {
+    .y {
+        margin-top: 20px;
+    }
+}
+
 
 /*end content*/
